@@ -7,6 +7,9 @@ html{
     font-size: 62.5%;
     font-family: 'Montserrat', sans-serif;
 }
+:root{
+    --main-color:#6c757d;
+}
 img{
     width: 150px;
     height: 100px;
@@ -20,4 +23,17 @@ h1{
 p{
     font-size: 2rem;
     text-align: center;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+} 
+.container .container-ggl{
+    border: var(--main-color);
+    border-style: solid;
+}
+.container .container-ddg{
+    border: var(--main-color);
+    border-style: solid;
 }
