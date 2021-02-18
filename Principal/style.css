@@ -44,7 +44,6 @@ h1{
  .container-ddg{
     border: var(--main-color) solid thin;
     border-radius: 20px;
-    margin-bottom: 15px;
     padding: 10px 15px;
     margin: 15px 0 15px;
 }
