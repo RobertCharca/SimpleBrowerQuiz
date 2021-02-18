@@ -1,0 +1,22 @@
+h1{
+    font-size: 3.5rem;
+    margin: 40px 20px;
+}
+.container-text{
+    font-size: 3.5rem;
+}
+.container-ggl img{
+    width: 130px;
+    height: 110px;
+}
+.container-ddg img{
+    width: 130px;
+    height: 130px;
+}
+.footer-text{
+    font-size: 2rem;
+    margin: 20px 10px;
+}
+.footer-text .ft-p{
+    font-size: 2.1rem;
+}
