@@ -1,0 +1,25 @@
+h1{
+    font-size: 5.5rem;
+    margin: 50px 20px;
+}
+.container-text{
+    font-size: 4.5rem;
+}
+.container-ggl img{
+    width: 170px;
+    height: 150px;
+}
+.container-ddg img{
+    width: 170px;
+    height: 170px;
+}
+footer{
+    height: 18vh;
+}
+.footer-text{
+    margin: 25px 10px;
+    font-size: 3rem;
+}
+.footer-text .ft-p{
+    font-size: 3.2rem;
+}

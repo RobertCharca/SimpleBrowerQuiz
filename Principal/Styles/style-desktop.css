@@ -1,0 +1,31 @@
+h1{
+    font-size: 4.5rem;
+}
+.container.text{
+    margin: 30px;
+}
+.container{
+    align-self: center;
+    flex-direction: row;
+    justify-content: center;
+}
+.container-ggl{
+    margin: 20px 30px;
+}
+.container-ggl img{
+    width: 150px;
+    height: 130px;
+}
+.container-ddg{
+    margin: 20px 30px;
+}
+.container-ddg img{
+    width: 150px;
+    height: 150px;
+}
+.footer-text{
+    font-size: 2rem;
+}
+.footer-text .ft-p{
+    font-size: 2.1rem;
+}
