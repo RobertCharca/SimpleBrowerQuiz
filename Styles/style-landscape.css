@@ -1,0 +1,30 @@
+.container-text{
+    margin: 30px;
+}
+.container{
+    flex-direction: row;
+    justify-content: center;
+}
+.container-ggl{
+    margin: 20px 30px;
+}
+.container-ggl img{
+    width: 130px;
+    height: 110px;
+}
+.container-ddg{
+    margin: 20px 30px;
+}
+.container-ddg img{
+    width: 130px;
+    height: 130px;
+}
+footer{
+    position: absolute;
+}
+.footer-text{
+    font-size: 1.9rem;
+}
+.footer-text .ft-p{
+    font-size: 2rem;
+}
