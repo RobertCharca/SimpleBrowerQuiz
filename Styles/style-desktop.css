@@ -24,6 +24,7 @@ h1{
     height: 150px;
 }
 .footer-text{
+    margin: 16px ;
     font-size: 2rem;
 }
 .footer-text .ft-p{
