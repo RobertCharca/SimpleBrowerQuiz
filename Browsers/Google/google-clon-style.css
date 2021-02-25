@@ -71,3 +71,69 @@ main img{
     width: 292px;
     height: 92px;
 }
+.main-search-buttons{
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    width: 584px;
+    height: 88px;
+    padding: 18px 0px 0px;
+}
+.main-search-buttons .button-1, .button-2{
+    color: #3c4043;
+    cursor: pointer;
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    height: 36px;
+    padding: 0px 16px;
+    margin: 11px 4px;
+    text-decoration: none;
+    outline: none;
+    font-size: 1.4rem;
+}
+.button-1:hover, .button-2:hover{
+    border: 1px solid #dadce0;
+}
+footer{
+    background-color: #f2f2f2;
+    width: 100%;
+    bottom: 0;
+    position: absolute;
+}
+.footer-text{
+    color: #0000008A;
+    font-size: 1.5rem;
+    padding: 15px 30px;
+    height: 48px;
+    border-bottom: 1px solid #dadce0;
+}
+.footer-sections{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    height: 47px;
+    padding: 0px 20px;
+    font-size: 1.5rem;
+}
+.footer-sections-1{
+    display: flex;
+    flex-flow: row wrap;
+    list-style: none;
+    padding: 15px 0px;
+}
+.footer-sections-2{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-end;
+    padding: 15px 0px;
+    list-style: none;
+}
+.footer-sections-1 a, .footer-sections-2 a{
+    color: #70757a;
+    font-size: 1.4rem;
+    text-decoration: none;
+    padding: 0px 15px;
+}
+.footer-sections-1 a:hover, .footer-sections-2 a:hover{
+    text-decoration: underline;
+}
