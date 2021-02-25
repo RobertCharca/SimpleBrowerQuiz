@@ -95,6 +95,18 @@ main img{
 .button-1:hover, .button-2:hover{
     border: 1px solid #dadce0;
 }
+.main-text{
+    display: flex;
+    font-size: 1.3rem;
+    justify-content: center;
+}
+.main-text a{
+    color:#1a0dab;
+    text-decoration: none;
+}
+.main-text a:hover{
+    text-decoration: underline;
+}
 footer{
     background-color: #f2f2f2;
     width: 100%;
