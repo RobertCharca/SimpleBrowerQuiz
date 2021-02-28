@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html{
+    font-size: 62.5%;
+    background-color: #f7f7f7;
+}
+.main-duckduckgo-logo{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 11.52px;
+}
+.main-duckduckgo-logo img{
+    margin: 0px 47.5px;
+    width: 205px;
+    height: 200px;
+}
+.main-search-text{
+    color: #9a9a9a;
+    font-size: 1.8rem;
+}
