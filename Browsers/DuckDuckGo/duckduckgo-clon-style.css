@@ -7,6 +7,70 @@ html{
     font-size: 62.5%;
     background-color: #f7f7f7;
 }
+.all-powerful{
+    margin: 22px 0px 0px 16px;
+    display: flex;
+    justify-content: flex-end;
+}
+.nav-bar{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+.nav-bar-1{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+.nav-bar-1 .nav-bar-1-t{
+    width: 114.8px;
+    height: 37px;
+}
+.nav-bar-1-t a{
+    font-size: 1.4rem;
+    text-decoration: none;
+}
+.nav-bar-1 .nav-bar-1-ad1{
+    margin-left: 5px;
+    width: 14.41px;
+    height: 38px;
+}
+.nav-bar-1 img{
+    width: 14.41px;
+    height: 15px;
+    margin-left: 5px;
+}
+.nav-bar-2{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+.nav-bar-2 .nav-bar-2-t{
+    width: 25px;
+    height: 39px;
+}
+.nav-bar-2 .trumpet{
+    width: 25px;
+    height: 25px;
+}
+.nav-bar-2 .nav-bar-2-ad2{
+    margin-left: 5px;
+    width: 14.41px;
+    height: 38px;
+}
+.nav-bar-2 .arrow-down{
+    width: 14.41px;
+    height: 15px;
+}
+.nav-bar-menu{
+    margin-left: 20px;
+    width: 33px;
+    height: 33px;
+}
+.nav-bar-menu img{
+    width: 20px;
+    height: 20px;
+}
 .main-duckduckgo-logo{
     display: flex;
     justify-content: center;
@@ -20,4 +84,11 @@ html{
 .main-search-text{
     color: #9a9a9a;
     font-size: 1.8rem;
+}
+.main-search-text a{
+    color: #4495d4;
+    text-decoration: none;
+}
+.main-search-text a:hover{
+    text-decoration: underline;
 }
