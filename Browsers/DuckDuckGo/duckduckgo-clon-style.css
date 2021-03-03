@@ -15,7 +15,7 @@ html{
     font-style: normal;
 }
 .all-powerful{
-    margin: 22px 0px 0px 16px;
+    margin: 30px 0px 0px 16px;
     display: flex;
     justify-content: flex-end;
 }
@@ -28,10 +28,13 @@ html{
     display: flex;
     align-items: center;
     cursor: pointer;
+    padding: 0px 10px 0px 0px;
 }
 .nav-bar-1 .nav-bar-1-t{
     width: 114.8px;
     height: 37px;
+    padding: 5px 0px 5px 0px;
+    text-align: center;
 }
 .nav-bar-1-t a{
     color: #a5a5a5;
@@ -39,14 +42,14 @@ html{
     text-decoration: none;
 }
 .nav-bar-1 .nav-bar-1-ad1{
-    margin-left: 5px;
+    margin: 0px 10px 0px 5px;
     width: 14.41px;
     height: 38px;
+    padding: 7px 0px 5px 0px;
 }
 .nav-bar-1 img{
-    width: 14.41px;
-    height: 15px;
-    margin-left: 5px;
+    width: 11px;
+    height: 10px;
 }
 .nav-bar-2{
     display: flex;
@@ -56,33 +59,37 @@ html{
 .nav-bar-2 .nav-bar-2-t{
     width: 25px;
     height: 39px;
+    margin: 0px 5px 0px 0px;
 }
 .nav-bar-2 .trumpet{
     width: 25px;
     height: 25px;
 }
 .nav-bar-2 .nav-bar-2-ad2{
-    margin-left: 5px;
+    margin: 0px 10px 0px 5px;
     width: 14.41px;
     height: 38px;
+    padding: 7px 0px 5px 0px;
 }
 .nav-bar-2 .arrow-down{
-    width: 14.41px;
-    height: 15px;
+    width: 11px;
+    height: 10px;
 }
 .nav-bar-menu{
-    margin-left: 20px;
+    cursor: pointer;
+    margin: 0px 10px 0px 10px;
     width: 33px;
     height: 33px;
+    padding: 5px;
 }
 .nav-bar-menu img{
-    width: 20px;
-    height: 20px;
+    width: 15px;
+    height: 15px;
 }
 .main-duckduckgo-logo{
     display: flex;
     justify-content: center;
-    margin-bottom: 11.52px;
+    margin: 45px 0px 11.52px 0px;
 }
 .main-duckduckgo-logo img{
     margin: 0px 47.5px;
