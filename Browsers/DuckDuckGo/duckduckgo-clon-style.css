@@ -6,6 +6,13 @@
 html{
     font-size: 62.5%;
     background-color: #f7f7f7;
+    font-family: Proxima Nova;
+}
+@font-face{
+    font-family: 'Proxima Nova';
+    src: url(./Font/ProximaNova-Regular.otf);
+    font-weight: normal;
+    font-style: normal;
 }
 .all-powerful{
     margin: 22px 0px 0px 16px;
@@ -27,6 +34,7 @@ html{
     height: 37px;
 }
 .nav-bar-1-t a{
+    color: #a5a5a5;
     font-size: 1.4rem;
     text-decoration: none;
 }
